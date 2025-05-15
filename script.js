@@ -1,1 +1,1 @@
-console.log('Dale kyuzada')
+console.log('Dale kyuzada, da porcentagem maxima aí namoralzinha')
